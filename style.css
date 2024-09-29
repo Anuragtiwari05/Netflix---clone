@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+    font-family: arial;
+    border: border-box;
+   padding: 0px;
+   
+  
+  }
+  .nav{
+    background-image:image-set("netback.jpg");
+  }
+  .navbar{
+    height: 120px;
+    width: 1262px;
+    display: flex;
+  align-items: center;
+  justify-content: space-between;
+ padding: 0px 80px 0px 80px;
+ 
+  }
+  .navlogo{
+   align-items: flex-start;
+   width: 355px;
+   padding-right: 200px;
+  }
+  
+  .lang{
+    height: 50px;
+    background-color: transparent;
+   
+  align-items: flex-end;
+  
+  }
+  .sign1{
+    height: 32px;
+    width: 86px;
+    background-color: red;
+    color:white;
+    align-items: flex-end;
+    padding-left: 0px;
+    margin-left: 0px;
+    
+  }
+  .main{
+    
+    height: 600px;
+    width: 100%;
+    background-size: cover;
+   
+  }
+  .cont{
+    color: white;
+   text-align: center;
+    align-items: center;
+    justify-content: space-around;
+    padding: 100px 300px 00px 300px;
+    text-size-adjust: 200px;
+
+  }
+  .sign2{
+   
+    background-color: red;
+    color:white;
+   margin: 0px 200px 0px 200px;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+  }
+  .all{
+    background-color: black;
+  }
+  .trend{
+    height: 200px;
+    background-color: black;
+    color: white;
+padding: 0px 80px 0px 80px;
+
+    
+  }
+  .sel{
+    padding-top: 100px;
+  }
+  .movie{
+    height: 220px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: black;
+    color: white;
+    margin-top: 30px;
+  }
+  .web{
+    height: 220px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: black;
+    color: white;
+    margin-top: 30px;
+  }
+  .drama{
+    height: 220px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: black;
+    color: white;
+    margin-top: 30px;
+  }
+  .footer{
+    margin-top: 15px;
+    width: 100%;
+    background-color: black;
+       }
+    
+    .foot1{
+      background-color:black;
+      color: white;
+      height: 50px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: 0.5rem;
+    }
+    .foot2{
+      background-color:black;
+      color: white;
+      height: 500px;
+      display: flex;
+      justify-content: space-evenly;
+    
+    }
+    ul a{
+      display: block;
+      font-size: 0.85rem;
+      margin-top: 10px;
+      color: #dddddd;
+    }
